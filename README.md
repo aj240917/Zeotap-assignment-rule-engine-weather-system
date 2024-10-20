@@ -1,4 +1,7 @@
 # Zeotap-assignment-rule-engine-weather-system
+Rule Engine with AST
+# Zeotap-assignment-rule-engine-weather-system
+
 ## Application 1: Rule Engine with AST
 
 ### Overview
@@ -7,17 +10,17 @@ This application implements a simple rule engine using an Abstract Syntax Tree (
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zeotap-assignment-rule-engine-weather-system.git
+   git clone https://github.com/aj240917/zeotap-assignment-rule-engine-weather-system.git
    cd zeotap-assignment-rule-engine-weather-system/rule_engine
-Install dependencies (if any):
-bash
-Copy code
+
+2.Install dependencies (if any):
 pip install -r requirements.txt
-Usage
+
+USAGE 
 To create and evaluate rules, you can use the rule_engine.py file. Here are some example commands you can run in a Python environment:
 
 python
-Copy code
+
 from rule_engine import create_rule, evaluate_rule
 
 # Example rule creation
@@ -33,13 +36,15 @@ Testing
 To run the tests for the rule engine:
 
 bash
-Copy code
+
 python -m unittest test_rule_engine.py
 License
 This project is licensed under the MIT License.
 
 Contributors
 Ayush Joshi
+
+
 ### Instructions for Using the README.md
 
 1. **Create or Edit the README.md File**:
@@ -48,11 +53,9 @@ Ayush Joshi
 2. **Paste the Updated Content**:
    - Copy the updated README content above and paste it into the file.
 
-3. **Replace Placeholder**:
-   - Change `yourusername` in the clone command to your actual GitHub username.
-
-4. **Save the File**:
+3. **Save the File**:
    - Save your changes.
 
-5. **Commit and Push**:
+4. **Commit and Push**:
    - Follow the previous instructions to commit and push the changes to your GitHub repository.
+
